@@ -1,4 +1,4 @@
-# NeoStats Academic Study Companion
+# Academic Study Companion
 
 A powerful, AI-proof Streamlit web application designed for education and research. This application allows students, researchers, and educators to upload their study materials (PDFs), process them using Retrieval-Augmented Generation (RAG), and interactively converse with the materials.
 
