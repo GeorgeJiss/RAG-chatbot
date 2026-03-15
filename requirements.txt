@@ -1,0 +1,13 @@
+streamlit 
+langchain-openai 
+langchain-groq 
+langchain-google-genai 
+langchain-core
+langchain-huggingface
+langchain_text_splitters
+langchain_community
+sentence-transformers
+faiss-cpu
+PyPDF2
+duckduckgo-search
+python-dotenv
